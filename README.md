@@ -2,9 +2,9 @@
 
 Kobjects.org was created in the early 2000s as a namepace umbrella for some MIDP-related projects, most notably kxml2. 
 
-The original "idea" behind the name was "Kilobyte objects". Currently we seem to be pivoting towards "Kotlin objects".
+The original "idea" behind the name was "Kilobyte Objects". Currently we seem to be pivoting towards "Kotlin Objects".
 
-## Current Projects
+## Projects
 
 - [konsole](http://github.com/kobjects/konsole) A chat-like KMP "console" interface.
 - [kxml2](https://github.com/kobjects/kxml2) A lightweight "pull" parser for XML.
