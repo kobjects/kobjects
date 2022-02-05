@@ -6,9 +6,9 @@ The original "idea" behind the name was "Kilobyte objects". Currently we seem to
 
 ## Current Projects
 
-- [kxml3](https://github.com/kobjects/kxml3) Kxml2 ported to Kotlin Multiplatform (KMP)
-- [kxml2](https://github.com/kobjects/kxml2) A lightweight "pull" parser for XML.
 - [konsole](http://github.com/kobjects/konsole) A chat-like KMP "console" interface.
+- [kxml2](https://github.com/kobjects/kxml2) A lightweight "pull" parser for XML.
+- [kxml3](https://github.com/kobjects/kxml3) Kxml2 ported to Kotlin Multiplatform (KMP)
 
 For an overview of current projects, please refer to the [github project page](https://github.com/kobjects)
 
