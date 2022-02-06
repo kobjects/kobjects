@@ -9,6 +9,7 @@ The original "idea" behind the name was "Kilobyte Objects", but now we are pivot
 - [Konsole](http://github.com/kobjects/konsole): A chat-like KMP "console" interface.
 - [kxml2](https://github.com/kobjects/kxml2): A lightweight "pull" parser for XML.
 - [kxml3](https://github.com/kobjects/kxml3): Kxml2 ported to Kotlin Multiplatform (KMP)
+- [ParserLib](http://github.com/kobjects/parserlib): A library for building recursive descent parsers.
 
 
 ## Legacy Projects
