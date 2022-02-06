@@ -2,7 +2,7 @@
 
 kObjects.org was created in the early 2000s by Stefan Haustein as a namepace umbrella for some MIDP-related projects, most notably kxml2. 
 
-The original "idea" behind the name was "Kilobyte Objects". Currently we seem to be pivoting towards "Kotlin Objects".
+The original "idea" behind the name was "Kilobyte Objects", but now we are pivoting towards "Kotlin Objects".
 
 ## Projects
 
