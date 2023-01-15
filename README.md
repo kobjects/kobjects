@@ -1,6 +1,6 @@
 # kobjects.org
 
-kobjects.org was created in the early 2000s by Stefan Haustein as a namepace umbrella for some MIDP-related projects, most notably kxml2. 
+kobjects.org was created in the early 2000s as a namepace umbrella for some MIDP-related projects, most notably kxml2. 
 
 The original "idea" behind the name was "Kilobyte Objects", but now we are pivoting towards "Kotlin Objects".
 
