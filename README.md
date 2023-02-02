@@ -4,13 +4,15 @@ kobjects.org was created in the early 2000s as a namepace umbrella for some MIDP
 
 The original "idea" behind the name was "Kilobyte Objects", but now we are pivoting towards "Kotlin Objects".
 
-## Projects
+## Kotlin Projects
 
 - [Konsole](http://github.com/kobjects/konsole): A chat-like KMP "console" interface.
-- [kxml2](https://github.com/kobjects/kxml2): A lightweight "pull" parser for XML.
-- [kxml3](https://github.com/kobjects/kxml3): Kxml2 ported to Kotlin Multiplatform (KMP)
+- [KtXml](https://github.com/kobjects/ktxml): Kxml2 ported to Kotlin Multiplatform (KMP)
 - [ParserLib](http://github.com/kobjects/parserlib): A library for building recursive descent parsers.
 
+## Java Projects
+
+- [kxml2](https://github.com/kobjects/kxml2): A lightweight "pull" parser for XML.
 
 ## Legacy Projects
 
