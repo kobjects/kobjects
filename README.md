@@ -4,7 +4,7 @@
 
 - [Konsole](http://github.com/kobjects/konsole): A chat-like KMP "console" interface.
 - [KtXml](https://github.com/kobjects/ktxml): Kxml2 ported to Kotlin Multiplatform (KMP)
-- [ParserLib](http://github.com/kobjects/parserlib): A library for building recursive descent parsers.
+- [Parsek](http://github.com/kobjects/parsek): A library for building recursive descent parsers.
 
 ## Java Projects
 
